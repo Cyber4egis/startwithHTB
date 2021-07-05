@@ -22,8 +22,12 @@ We'll use one of Hack the Box's retired boxes, Nibble, that will give you a chan
 This workshop is for beginners but assumes a working knowledge of the Linux command line and an understanding of information security fundamentals.
 
 * A Hack The Box account. https://www.hackthebox.eu/
-* The latest version of OpenVPN (pre-installed with Kali Linux)
+* The latest version of OpenVPN (already pre-installed with Kali Linux)
 * A working internet connection
+
+## setup instructions
+
+Please follow the [set up instructions](00-set-up.md) and test your VPN connection to [hackthebox.eu](https://www.hackthebox.eu/)
 
 # Tes Premiers Pas avec Hack The Box
 Cet atelier pratique a pour but de vous présenter les concepts clés des test d’intrusion et vous aider à faire vos premiers pas avec Hack The Box (HTB) en vous présentant la procédure pas-à-pas de votre première boîte (HTB). 
