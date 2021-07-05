@@ -1,14 +1,14 @@
 # Instructions
 
-1. [Télécharge VirtualBox pour ton système d'exploitation et installe le.](https://www.virtualbox.org/)
+1. [Télécharge VirtualBox pour ton système d'exploitation et installe-le.](https://www.virtualbox.org/)
 
 ![VirtualBox](/assets_/downloadVB.png)
 
-2. [Télécharge la dernière version de l'image de Kali Linux](https://www.kali.org/get-kali/#kali-virtual-machines). Assure-toi de télécharger l'image faite pour VirtualBox et non celle faite pour VM ware.
+2. [Télécharge la dernière version de l'image de Kali Linux](https://www.kali.org/get-kali/#kali-virtual-machines). Assure-toi de télécharger l'image faite pour VirtualBox et non celle faite pour VMware.
 
 ![Import1](/assets_/importvm.png)
 
-4. Clique sur le répertoire jaune et importe l'image de Kali (fichier .ova)
+4. Clique sur le répertoire jaune et importe l'image de Kali que tu viens de télécharger (fichier .ova)
 
 ![Import2](/assets_/importvm2.PNG)
 
@@ -21,11 +21,11 @@
 ![Login](/assets_/kalikali.png)
 
 7. Dans Kali, ouvre une fenêtre de terminal et installe *feroxbuster* avec la commande suivante: `sudo apt install feroxbuster`
-8. Ta machine virtuelle Kali est prête!
+8. Ta machine virtuelle Kali est prête! 👍
 
 ## Teste ta connection VPN avec Hack The Box
 1. Dans Kali, ouvre un navigateur web et connecte-toi à [hackthebox.eu](https://www.hackthebox.eu/) avec ton nom d'usager.
-2. En haut à droite, clique sur *CONNECT TO HTB*, ensuite clique syr *Machines* et finalement clique sur *OpenVPN*.
+2. En haut à droite, clique sur *CONNECT TO HTB*, ensuite clique sur *Machines* et finalement clique sur *OpenVPN*.
 
 ![Connect](/assets_/connectothtb.PNG)
 
@@ -37,7 +37,7 @@
 
 ![OpenVPN](/assets_/downloadVPN.PNG)
 
-4. Ouvrer une fenêtre de terminal dans Kali, et execute la commande suivante: `sudo openvpn username.ovpn`. Assure-toi d'être dans le répertoire oû se situe ton fichier de configuration .ovpn
+4. Ouvre une fenêtre de terminal dans Kali, et execute la commande suivante: `sudo openvpn username.ovpn`. Assure-toi d'être dans le répertoire où se situe ton fichier de configuration .ovpn
 5. Retourne sur le site de [hackthebox.eu](https://www.hackthebox.eu/). Dans le menu de gauche, selectionne *Labs* et selectionne ensuite *Machines*. 
 
 ![Labs](/assets_/Labs_machines.PNG)
@@ -53,4 +53,4 @@
 
 ![Love](/assets_/love_ip.PNG)
 
-8. Retourne vers ton terminal dans Kali et ouvre un autre onglet (Ctrl+Shift+T). Dans ce nouvel onglet, ping l'adresse ip que tu as prise en note. Si ta commande ping s'execute avec succèes, ta connection VPN vers Hack The Box fonctionne correctement.
+8. Retourne vers ton terminal dans Kali et ouvre un autre onglet (Ctrl+Shift+T). Dans ce nouvel onglet, ping l'adresse ip que tu as prise en note. Si ta commande ping s'execute avec succèes, ta connection VPN vers Hack The Box fonctionne correctement. 👍
