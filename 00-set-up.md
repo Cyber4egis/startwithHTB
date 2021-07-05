@@ -54,4 +54,4 @@
 
 ![Love](/assets_/love_ip.PNG)
 
-8. Return to your terminal and ping the ip address you noted. If you can ping the machine successfully, your VPN connection to Hack The Box works.
+8. Return to your terminal and open a new tab (Ctrl+Shift+T), then in the new terminal tab ping the ip address you noted. If you can ping the machine successfully, your VPN connection to Hack The Box works.
