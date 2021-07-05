@@ -20,7 +20,7 @@
 
 ![Login](/assets_/kalikali.png)
 
-7. Dans Kali, ouvre une fenêtre de terminal et installe *feroxbuster* avec la commande suivante: `sudo apt install feroxbuster`
+7. Dans Kali, ouvre une fenêtre de terminal et installe [*feroxbuster*](https://github.com/epi052/feroxbuster) avec la commande suivante: `sudo apt install feroxbuster`
 
 ![Feroxbuster](/assets_/feroxbuster.png)
 
