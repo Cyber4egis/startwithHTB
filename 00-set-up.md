@@ -25,7 +25,7 @@
 
 ![Feroxbuster](/assets_/feroxbuster.png)
 
-8. Your Kali VM is ready!
+8. Your Kali VM is ready for the workshop!
 
 ## Test Your VPN Connection to Hack The Box
 1. Open a browser within Kali and log into [hackthebox.eu](https://www.hackthebox.eu/).
