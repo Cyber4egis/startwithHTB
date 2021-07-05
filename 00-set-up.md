@@ -27,9 +27,13 @@
 ## Test Your VPN Connection to Hack The Box
 1. Open a browser within Kali and log into [hackthebox.eu](https://www.hackthebox.eu/).
 2. At the top right, click on *CONNECT TO HTB*, then click on *Machines* and then click on *OpenVPN*.
-3. Select the VPN server closest to you and click on *Download VPN*. It may take a few seconds before the Download VPN button is enabled. The file name will be *username.ovpn*
-4. Open a termninal within Kali, locate the full path to your VPN configuration file (.ovpn file) and run the following command: `sudo openvpn username.ovpn`.
-5. Return to [hackthebox.eu](https://www.hackthebox.eu/). On the left-side menu, select *Labs* then select *Machines*. 
-6. Search for an active machine called **Love** and click on its name then click on **Join Machine**. 
-7. Take note of the ip address for *Love*.
-8. Return to your terminal and ping the ip address you noted. If you can ping the machine successfully, your VPN connection to Hack The Box works.
+
+![Connect](/assets_/connectothtb.PNG)
+![Machines](/assets_/machines.PNG)
+![OpenVPN](/assets_/openvpn.PNG)
+4. Select the VPN server closest to you and click on *Download VPN*. It may take a few seconds before the Download VPN button is enabled. The file name will be *username.ovpn*
+5. Open a termninal within Kali, locate the full path to your VPN configuration file (.ovpn file) and run the following command: `sudo openvpn username.ovpn`.
+6. Return to [hackthebox.eu](https://www.hackthebox.eu/). On the left-side menu, select *Labs* then select *Machines*. 
+7. Search for an active machine called **Love** and click on its name then click on **Join Machine**. 
+8. Take note of the ip address for *Love*.
+9. Return to your terminal and ping the ip address you noted. If you can ping the machine successfully, your VPN connection to Hack The Box works.
