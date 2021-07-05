@@ -9,7 +9,7 @@
 7. Open a terminal within Kali and install feroxbuster by running the following command: `sudo apt install feroxbuster`
 8. Your Kali VM is ready!
 
-## Test the VPN Connection to Hack The Box
+## Test Your VPN Connection to Hack The Box
 1. Open a browser within Kali and log into [hackthebox.eu](https://www.hackthebox.eu/).
 2. At the top right, click on **CONNECT TO HTB**, then click on **Machines** and then click on **OpenVPN**.
 3. Select the VPN server closest to you and click on **Download VPN**. It may take a few seconds before the Download VPN button is enabled. The file name will be **username.ovpn**
