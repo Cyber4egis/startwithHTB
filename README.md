@@ -27,7 +27,7 @@ This workshop is for beginners but assumes a working knowledge of the Linux comm
 
 ## setup instructions
 
-Please follow the [set up instructions](00-set-up.md) and test your VPN connection to [hackthebox.eu](https://www.hackthebox.eu/)
+Please follow the [set up instructions](00-set-up.md) and test your VPN connection to [hackthebox.eu](https://www.hackthebox.eu/) before the workshop begins.
 
 # Tes Premiers Pas avec Hack The Box
 Cet atelier pratique a pour but de vous présenter les concepts clés des test d’intrusion et vous aider à faire vos premiers pas avec Hack The Box (HTB) en vous présentant la procédure pas-à-pas de votre première boîte (HTB). 
@@ -55,3 +55,8 @@ Cet atelier est pour débutant ayant au moins des connaissances sur l”invite d
 * Un compte Hack The Box. https://www.hackthebox.eu/
 * La dernière version d’OpenVPN (pré-installée avec Kali Linux)
 * Une connexion internet fonctionnelle
+
+## Instructions
+
+SVP, suis les [instructions](00-set-up.md) suivantes et teste ta connection VPN [hackthebox.eu](https://www.hackthebox.eu/) avant le débute de l'atelier.
+
