@@ -1,4 +1,4 @@
-# Set-Up
+# Set-Up Instructions
 
 1. [Download VirtualBox for your operating system and install it.](https://www.virtualbox.org/)
 2. [Dowload the lastest Kali Linux Virtualbox image](https://www.kali.org/get-kali/#kali-virtual-machines). Make sure to download the image for VirtualBox and not the one for VMware.
