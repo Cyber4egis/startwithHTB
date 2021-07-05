@@ -22,7 +22,7 @@
 
 7. Dans Kali, ouvre une fenêtre de terminal et installe *feroxbuster* avec la commande suivante: `sudo apt install feroxbuster`
 
-![Feroxbuster](/assets_/Labs_machines.PNG)
+![Feroxbuster](/assets_/feroxbuster.png)
 
 8. Ta machine virtuelle Kali est prête! 👍
 
