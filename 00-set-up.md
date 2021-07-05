@@ -21,7 +21,10 @@
 
 ![Login](/assets_/kalikali.png)
 
-7. Open a terminal within Kali and install feroxbuster by running the following command: `sudo apt install feroxbuster`
+7. Open a terminal within Kali and install [feroxbuster](https://github.com/epi052/feroxbuster) by running the following command: `sudo apt install feroxbuster`
+
+![Feroxbuster](/assets_/feroxbuster.png)
+
 8. Your Kali VM is ready!
 
 ## Test Your VPN Connection to Hack The Box
