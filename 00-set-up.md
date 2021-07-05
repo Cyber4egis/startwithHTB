@@ -1,13 +1,28 @@
 # Set-Up Instructions
 
 1. [Download VirtualBox for your operating system and install it.](https://www.virtualbox.org/)
+
+![VirtualBox](/assets_/downloadVB.png)
+
 2. [Dowload the lastest Kali Linux Virtualbox image](https://www.kali.org/get-kali/#kali-virtual-machines). Make sure to download the image for VirtualBox and not the one for VMware.
 3. Open VirtualBox and click on « File » > « Import Appliance… »
-4. Click on the yellow folder and import your Kali image (.ova file)
-5. Once the image is imported, you can launch it by clicking on Start (green arrow) 
-6. Log into Kali. *Username: kali. Password: kali.*
-7. Open a terminal within Kali and install feroxbuster by running the following command: `sudo apt install feroxbuster`
-8. Your Kali VM is ready!
+
+![Import1](/assets_/importvm.png)
+
+5. Click on the yellow folder and import your Kali image (.ova file)
+
+![Import2](/assets_/importvm2.PNG)
+
+7. Once the image is imported, you can launch it by clicking on Start (green arrow) 
+
+![VMStart](/assets_/vm_start.png)
+
+8. Log into Kali. *Username: kali. Password: kali.*
+
+![Login](/assets_/kalikali.png)
+
+10. Open a terminal within Kali and install feroxbuster by running the following command: `sudo apt install feroxbuster`
+11. Your Kali VM is ready!
 
 ## Test Your VPN Connection to Hack The Box
 1. Open a browser within Kali and log into [hackthebox.eu](https://www.hackthebox.eu/).
