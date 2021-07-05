@@ -36,7 +36,7 @@ Cet atelier est pour débutant ayant au moins des connaissances sur l'invite de 
 
 Cet atelier sera présenté par Cristina Solana et se déroulera en anglais.
 
-## la conférencière
+## à propos de la conférencière
 
 Cristina Solana, fondatrice et co-organisatrice de MiamiJS, travaille quotidiennement avec Clientside JavaScript et Go et aide également à gérer un programme de bug bounty et VDP. Dans son temps libre, Cristina passe du temps  sur des CTF, à écrire des procédures pas à pas sur le piratage sur https://ethicalhacking.sh/ et à enseigner aux développeurs la sécurité des applications (AppSec).
 
