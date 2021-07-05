@@ -1,10 +1,10 @@
-# Set-Up Instructions
+# Setup Instructions
 
 1. [Download VirtualBox for your operating system and install it.](https://www.virtualbox.org/)
 
 ![VirtualBox](/assets_/downloadVB.png)
 
-2. [Dowload the lastest Kali Linux Virtualbox image](https://www.kali.org/get-kali/#kali-virtual-machines). Make sure to download the image for VirtualBox and not the one for VMware.
+2. [Download the lastest Kali Linux VirtualBox image](https://www.kali.org/get-kali/#kali-virtual-machines). Make sure to download the image for VirtualBox and not the one for VMware.
 3. Open VirtualBox and click on « File » > « Import Appliance… »
 
 ![Import1](/assets_/importvm.png)
@@ -41,7 +41,7 @@
 
 ![OpenVPN](/assets_/downloadVPN.PNG)
 
-4. Open a termninal within Kali, locate the full path to your VPN configuration file (.ovpn file) and run the following command: `sudo openvpn username.ovpn`.
+4. Open a terminal within Kali, locate the full path to your VPN configuration file (.ovpn file) and run the following command: `sudo openvpn username.ovpn`.
 5. Return to [hackthebox.eu](https://www.hackthebox.eu/). On the left-side menu, select *Labs* then select *Machines*. 
 
 ![Labs](/assets_/Labs_machines.PNG)
