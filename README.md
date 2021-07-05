@@ -22,7 +22,7 @@ We'll use one of Hack the Box's retired boxes, Nibble, that will give you a chan
 This workshop is for beginners but assumes a working knowledge of the Linux command line and an understanding of information security fundamentals.
 
 * A Hack The Box account. https://www.hackthebox.eu/
-* The latest version of OpenVPN (already pre-installed with Kali Linux)
+* Kali Linux VM
 * A working internet connection
 
 ## setup instructions
@@ -53,7 +53,7 @@ Nous utiliserons l'une des boîtes vétuste de Hack the Box, Nibble, qui vous do
 Cet atelier est pour débutant ayant au moins des connaissances sur l”invite de commande Linux et sur les bases de la sécurité de l’information.
 
 * Un compte Hack The Box. https://www.hackthebox.eu/
-* La dernière version d’OpenVPN (pré-installée avec Kali Linux)
+* Machine virtuelle Kali Linux
 * Une connexion internet fonctionnelle
 
 ## Instructions
