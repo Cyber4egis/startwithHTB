@@ -76,6 +76,6 @@ Es-tu à court de temps et tu ne pourras pas te préparer une machine virtuelle 
 
 Tu n'auras besoin que d'un client RDP pour ton système d'exploitation ainsi qu'une bonne connection internet!
 
-Voici les instructions rapides pour préparer ton client Remote Desktop: https://github.com/Cyber4egis/startwithHTB/blob/main/RDP-setup-cloud.md
+Voici les instructions rapides pour préparer ton client Remote Desktop: https://github.com/Cyber4egis/startwithHTB/blob/main/RDP-setup-cloud_fr.md
 
 Prends note que tu auras une bien meilleure expérience avec ta propre machine virtuelle. Si tu as le temps de suivre les instructions, nous te recommendons de préparer ta propre MV!
