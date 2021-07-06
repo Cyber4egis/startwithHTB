@@ -13,19 +13,19 @@ Here's what you'll need:
 
 3. Double-click on the file and it will open Remote Desktop Connection.
 
-![RDC](/assets_/RDC.PNG)
+![RDC](/assets_/RDC.png)
 
 4. Click on *Connect*.
  
 5. Enter your credentials. The credentials will be provided to you during the workshop. Use the *More choices* option if you need to change the _username_.
 
-![credentials](/assets_/credentials.PNG)
+![credentials](/assets_/credentials.png)
 
 6. Click *OK*.
 
 7. You may get the following warning: "_The identity of the remote computer cannot be verified. Do you want to connect anyway?_" Click *Yes*.
 
-![sayyes](uploads/af37d3066424759a02eb723668e1e8fa/sayyes.PNG)
+![sayyes](/assets_/sayyes.png)
 
 ## Remote Desktop for Mac
 1. Install Microsoft Remote Desktop from the App store.
