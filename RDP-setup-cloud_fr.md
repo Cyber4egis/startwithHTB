@@ -7,23 +7,23 @@ Selon ton système d'exploitation, choisis les instructions qui te conviennent:
 
 ## Remote Desktop pour Windows
 
-1. Le client Remote Desktop Connection vient installé sure Windows. Si vous utilisez un machine Windows, aucun logiciel additionnelle n'a à être installé.
+1. Le client Remote Desktop Connection vient installé sur Windows. Si vous utilisez un machine Windows, aucun logiciel additionnelle n'a à être installé.
 
-2. Téléchargez le fichier *.rdp que l'on vous distribuera durant l'atelier. 
+2. Téléchargez le fichier .rdp que l'on vous distribuera durant l'atelier. 
 
 3. Double-cliquez sur le fichier et une fenêtre de Remote Desktop Connection s'ouvrira.
 
 ![RDC](/assets_/RDC.png)
 
-4. Cliquez sur **Connect**.
+4. Cliquez sur *Connect*.
  
-5. Entrez les informations d'identification que l'on vous aura fourni durant l'atelier. Utilisez l'option **More choices** si vous devez changer le _nom d'utilisateur_.
+5. Entrez les informations d'identification que l'on vous aura fourni durant l'atelier. Utilisez l'option *More choices* si vous devez changer le _nom d'utilisateur_.
 
 ![credentials](/assets_/credentials.png)
 
-6. Cliquez sur **OK**.
+6. Cliquez sur *OK*.
 
-7. Vous verrez l'avertissement suivant : "_The identity of the remote computer cannot be verified. Do you want to connect anyway?_" Cliquez sur **Yes**.
+7. Vous verrez l'avertissement suivant : "_The identity of the remote computer cannot be verified. Do you want to connect anyway?_" Cliquez sur *Yes*.
 
 ![sayyes](/assets_/sayyes.png)
 
