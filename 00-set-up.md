@@ -28,6 +28,9 @@
 8. Your Kali VM is ready for the workshop!
 
 ## Test Your VPN Connection to Hack The Box
+
+The following instructions are to verify that you can successfully connect to Hack The Box through OpenVPN with your Kali Linux VM. The day before the workshop, we will send you updated instructions to connect to our dedicated server.
+
 1. Open a browser within Kali and log into [hackthebox.eu](https://www.hackthebox.eu/).
 2. At the top right, click on *CONNECT TO HTB*, then click on *Machines* and then click on *OpenVPN*.
 
