@@ -27,6 +27,9 @@
 8. Ta machine virtuelle Kali est prête! 👍
 
 ## Teste ta connection VPN avec Hack The Box
+
+Les instructions suivantes servent à vérifier que ta machine virtuelle Kali Linux est capable de se connecter à Hack The Box avec OpenVPN. Le jour qui précédera l'atelier, nous t'enverrons des instructions mises à jour afin que tu te connectes au serveur Hack The Box dédié à Cyber Aegis.
+
 1. Dans Kali, ouvre un navigateur web et connecte-toi à [hackthebox.eu](https://www.hackthebox.eu/) avec ton nom d'usager.
 2. En haut à droite, clique sur *CONNECT TO HTB*, ensuite clique sur *Machines* et finalement clique sur *OpenVPN*.
 
