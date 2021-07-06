@@ -29,6 +29,14 @@ This workshop is for beginners but assumes a working knowledge of the Linux comm
 
 Please follow the [set up instructions](00-set-up.md) and test your VPN connection to [hackthebox.eu](https://www.hackthebox.eu/) before the workshop begins.
 
+### no virtual machine?
+
+Are you running out of time and won't have time to set up your own Kali Virtual Machine for the workshop? Don't worry, we have your back! We will spin up cloud instances with Kali Linux and all the tools you'll need to follow along. 
+
+You'll only need to make sure you have an RDP client for your operating system installed on your machine and a good internet connection!
+
+Here are the instructions to get your Remote Desktop Client ready: https://github.com/Cyber4egis/startwithHTB/commit/aae18ef49e458bf720b0caa3bf15ba05b752b74c
+
 # Tes Premiers Pas avec Hack The Box
 Cet atelier pratique a pour but de vous présenter les concepts clés des test d’intrusion et vous aider à faire vos premiers pas avec Hack The Box (HTB) en vous présentant la procédure pas-à-pas de votre première boîte (HTB). 
 
