@@ -35,7 +35,7 @@ Are you running out of time and won't have time to set up your own Kali Virtual 
 
 You'll only need to make sure you have an RDP client for your operating system installed on your machine and a good internet connection!
 
-Here are the instructions to get your Remote Desktop Client ready: https://github.com/Cyber4egis/startwithHTB/commit/aae18ef49e458bf720b0caa3bf15ba05b752b74c
+Here are the instructions to get your Remote Desktop Client ready: https://github.com/Cyber4egis/startwithHTB/blob/main/RDP-setup-cloud.md
 
 # Tes Premiers Pas avec Hack The Box
 Cet atelier pratique a pour but de vous présenter les concepts clés des test d’intrusion et vous aider à faire vos premiers pas avec Hack The Box (HTB) en vous présentant la procédure pas-à-pas de votre première boîte (HTB). 
