@@ -68,7 +68,7 @@ Cet atelier est pour débutant ayant au moins des connaissances sur l”invite d
 
 ## Instructions
 
-SVP, suis les [instructions](00-set-up.md) suivantes et teste ta connection VPN [hackthebox.eu](https://www.hackthebox.eu/) avant le débute de l'atelier.
+SVP, suis les [instructions](00-set-up_fr.md) suivantes et teste ta connection VPN [hackthebox.eu](https://www.hackthebox.eu/) avant le débute de l'atelier.
 
 ### pas de machine virtuelle?
 
