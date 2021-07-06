@@ -49,7 +49,7 @@ Here's what you'll need:
 ## Remote Desktop for Linux
 1. Install __Itopa__ flatpak. This simplest way of doing this is through the software manager.
 
-2. Download the RDP file that will be given to you for the workshop. Select open with itopia if prompted:
+2. Download the RDP file that will be given to you during the workshop. Select open with itopia if prompted:
 
 
 ![openwith](/assets_/openwith.png)
