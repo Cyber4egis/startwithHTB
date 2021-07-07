@@ -2,45 +2,31 @@
 This document describes how to connect to the Hack The Box dedicated server for the Cyber Aegis *Getting Started with Hack The Box Workshop*. 
 
 ## Step 1 – Switch to Classic HTB UI
-If you have switched to the *New UI*, you need to switch back to the *Classic HTB* UI for the duration of this meetup.
+If you are using the *New UI*, you need to switch back to the *Classic HTB* UI for the duration of this workshop.
 This can be done by clicking on your username > select *Classic HTB*.
 
 ![image1](/assets_/1.png)
 
-
 ## Step 2 – Generate and Download Connection Path
-In the menu on the left, click on *Access*.
+On the menu on the left, click on *Access*.
 
  ![image2](/assets_/2.png)
-
  
-
-Under the *Tickets* section, click on the *Switch* button on the Dedicated ticket and select the dedicated server *US Dedicated xx*.
-
+Under the *Tickets* section, click on the *Switch* button on the Dedicated ticket and select the dedicated server *US Dedicated 12*.
 
  ![image3](/assets_/3.png)
  
-
 When the switch is completed, click on the *Refresh* button.
-
 
  ![image4](/assets_//4.png)
 
- 
-
 Once refreshed, you should see the name of the server you connected to.
-
 
  ![image5](/assets_/5.png)
 
- 
-
-Then click on the *Connection Pack* button.
-
+ Then click on the *Connection Pack* button.
 
  ![image6](/assets_/6.png)
-
- 
 
 
 ## Step 3 - Connect to the Dedicated Server
@@ -74,7 +60,7 @@ This should generate the following output.
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
  ```
  
- In the menu on the left, click on *Dedicated Labs* > select *US Dedicated xx*. There you'll see the list of available boxes on the dedicated server and the associated IP addresses.
+ On the menu on the left, click on *Dedicated Labs* > select *US Dedicated 12*. There you'll see the list of available boxes on the dedicated server and the associated IP addresses.
  
   ![image9](/assets_/9.png)
   
@@ -88,5 +74,5 @@ PING 10.10.10.85 (10.10.10.85) 56(84) bytes of data.
 64 bytes from 10.10.10.85: icmp_seq=3 ttl=63 time=34.2 ms
 64 bytes from 10.10.10.85: icmp_seq=4 ttl=63 time=51.0 ms
 ```
-  
- 
+
+This tutorial was written by [Rana Khalil](https://github.com/rkhal101) and adapted for this workshop.
