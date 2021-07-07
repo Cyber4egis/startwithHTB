@@ -17,6 +17,14 @@
 
 ![VMStart](/assets_/vm_start.png)
 
+When you attempt to launch your Kali Linux VM, you may run into this error message.
+
+![ErrorMessage](/assets_/error_message.PNG)
+
+To resolve this issue, you may disable USB 2.0 support in the VM settings **OR** you may install the latest [Oracle VM VirtualBox Extension Pack](https://www.virtualbox.org/wiki/Downloads) 
+
+![VBExtensionPack](/assets_/vbextensionpack.png)
+
 6. Log into Kali. *Username: kali. Password: kali.*
 
 ![Login](/assets_/kalikali.png)
@@ -48,7 +56,6 @@ The following instructions are to verify that you can successfully connect to Ha
 5. Return to [hackthebox.eu](https://www.hackthebox.eu/). On the left-side menu, select *Labs* then select *Machines*. 
 
 ![Labs](/assets_/Labs_machines.PNG)
-
 
 6. Search for an active machine called **Love** and click on its name then click on **Join Machine**. 
 
