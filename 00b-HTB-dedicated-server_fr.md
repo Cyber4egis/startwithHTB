@@ -12,7 +12,7 @@ Dans le menu à gauche, sélectionne *Access*.
 
  ![image2](/assets_/2.png)
  
-Sous la section *Tickets*, sélectionne le bouton *Switch* sur le ticket *Dedicated* et selection le serveur *US Dedicated 12*.
+Sous la section *Tickets*, sélectionne le bouton *Switch* sur le ticket *Dedicated* et selectionne le serveur *US Dedicated 12*.
 
  ![image3](/assets_/3.png)
  
