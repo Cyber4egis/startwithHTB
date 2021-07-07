@@ -1,5 +1,7 @@
 # How to Connect to the Dedicated Server
-This document describes how to connect to the Hack The Box dedicated server for the Cyber Aegis *Getting Started with Hack The Box Workshop*. 
+This document describes how to connect to the Hack The Box dedicated server for the Cyber Aegis *Getting Started with Hack The Box Workshop* by Cristina Solana. 
+
+Note that only participants who were added to the dedicated server will have access to it. If you attend the workshop and need access to the server, make sure that you ask one of the organizers.
 
 ## Step 1 – Switch to Classic HTB UI
 If you are using the *New UI*, you need to switch back to the *Classic HTB* UI for the duration of this workshop.
