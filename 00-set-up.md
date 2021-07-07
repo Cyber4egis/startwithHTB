@@ -19,7 +19,7 @@
 
 When you attempt to launch your Kali Linux VM, you may run into this error message.
 
-![ErrorMessage](/assets_/error_message.PNG)
+![Error](/assets_/error.png)
 
 To resolve this issue, you may disable USB 2.0 support in the VM settings **OR** you may install the latest [Oracle VM VirtualBox Extension Pack](https://www.virtualbox.org/wiki/Downloads) 
 
