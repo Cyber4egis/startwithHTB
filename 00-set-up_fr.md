@@ -16,6 +16,14 @@
 
 ![VMStart](/assets_/vm_start.png)
 
+Il est possible que tu rencontres ce message d'erreur en démarrant ta machine virtuelle Kali Linux. 
+
+![Erreur](/assets_/error1.png)
+
+Tu peux rémédier la situation en désactivant le support pour USB 2.0 dans la configuration de ta MV **OU** en installant la version la plus récente de [Oracle VM VirtualBox Extension Pack](https://www.virtualbox.org/wiki/Downloads).
+
+![ExtensionPack](/assets_/vbextensionpack.png)
+
 6. Authentifie-toi à Kali. *Nom d'usager: kali. Mot de passe: kali.*
 
 ![Login](/assets_/kalikali.png)
