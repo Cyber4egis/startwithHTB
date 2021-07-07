@@ -1,6 +1,8 @@
 # Comment se connecter à un serveur pour un évènement Hack The Box
 Ce document décrit comment se connecté au serveur Hack The Box dédié à l'atelier *Tes Premiers Pas avec Hack The Box* par Cristina Solana pour Cyber Aegis. 
 
+Seules les participantes dont le nom d'usager aura été ajouté au serveur dédié pourront y accéder. Pour avoir accès au serveur le jour de l'évènement, veuillez vous assurez d'en avoir fait la requêtes aux organisatrices. 
+
 ## Étape 1 – Changer l'interface de Hack The Box
 Si tu utilises la nouvelle interface de Hack The Box, tu devras utiliser l'interface classique *Classic HTB*  pour la durée de cet atelier.
 Cela se fait en cliquant sur ton nom d'usager et en sélectionnant *Classic HTB*.
