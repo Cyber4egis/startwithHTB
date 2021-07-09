@@ -22,7 +22,7 @@ Quand le changement d'interface est complété, sélectionne le bouton *Refresh*
 
  ![image4](/assets_//4.png)
 
-Tu devrais à présent void, le nom du serveur auquel tu es connectée.
+Tu devrais à présent voir, le nom du serveur auquel tu es connectée.
 
  ![image5](/assets_/5.png)
 
@@ -41,26 +41,14 @@ sudo openvpn <nomdusager>.ovpn
 
 Tu devrais voir ce résultat:
 
- ![image8](/assets_/8.png)
+![OpenVPN](/assets_/OpenVPN_academy.PNG)
  
  
  ## Étape 4 - Teste la connection
  
- D'abord, confirme que l'on t'a assigné une adresse IP en exécutant la commande suivante:
+ Si tu tapes `ifconfig` dans une autre fenêtre du terminal, tu verras un adapteur *tun* si tu es bien connectée au VPN. 
  
- ```
- root@kali:~# ifconfig      
- ....
- tun0: flags=4305<UP,POINTOPOINT,RUNNING,NOARP,MULTICAST>  mtu 1500
-        inet 10.10.14.2  netmask 255.255.254.0  destination 10.10.14.2
-        inet6 dead:beef:2::1000  prefixlen 64  scopeid 0x0<global>
-        inet6 fe80::ce00:662a:f97:2c8f  prefixlen 64  scopeid 0x20<link>
-        unspec 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  txqueuelen 100  (UNSPEC)
-        RX packets 0  bytes 0 (0.0 B)
-        RX errors 0  dropped 0  overruns 0  frame 0
-        TX packets 1  bytes 48 (48.0 B)
-        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
- ```
+ ![OpenVPN](/assets_/ifconfig.PNG)
  
  Dans le menu de gauche, clique sur *Dedicated Labs* > selectionne *US Dedicated 12*. Tu verras une liste the machines disponibles et leur adresse IP correspondante.
  
