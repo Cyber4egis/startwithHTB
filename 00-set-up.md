@@ -29,7 +29,7 @@ To resolve this issue, you may disable USB 2.0 support in the VM settings **OR**
 
 ![Login](/assets_/kalikali.png)
 
-7. Open a terminal within Kali and install [feroxbuster](https://github.com/epi052/feroxbuster) by running the following command: `sudo apt install feroxbuster`
+7. Open a terminal within Kali and install [feroxbuster](https://github.com/epi052/feroxbuster) by running the following command: `sudo apt update && sudo apt install -y feroxbuster`
 
 ![Feroxbuster](/assets_/feroxbuster.png)
 
