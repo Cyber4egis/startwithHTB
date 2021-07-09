@@ -36,7 +36,7 @@ Tu devrais à présent void, le nom du serveur auquel tu es connectée.
 Execute la commande suivante:
 
 ```
-openvpn <nomdusager>.ovpn
+sudo openvpn <nomdusager>.ovpn
 ```
 
 Tu devrais voir ce résultat:
