@@ -36,7 +36,7 @@ Once refreshed, you should see the name of the server you connected to.
 Run the following command.
 
 ```
-openvpn <username>.ovpn
+sudo openvpn <username>.ovpn
 ```
 
 This should generate the following output.
