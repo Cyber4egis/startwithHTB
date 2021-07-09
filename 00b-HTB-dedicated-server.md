@@ -41,7 +41,7 @@ sudo openvpn <username>.ovpn
 
 This should generate the following output.
 
- ![image8](/assets_/OpenVPN_academy.PNG.png)
+ ![OpenVPN](/assets_/OpenVPN_academy.PNG)
  
  
  ## Step 4 - Test the Connection
