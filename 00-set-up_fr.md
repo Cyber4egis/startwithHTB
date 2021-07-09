@@ -28,7 +28,7 @@ Tu peux rémédier la situation en désactivant le support pour USB 2.0 dans la 
 
 ![Login](/assets_/kalikali.png)
 
-7. Dans Kali, ouvre une fenêtre de terminal et installe [*feroxbuster*](https://github.com/epi052/feroxbuster) avec la commande suivante: `sudo apt install feroxbuster`
+7. Dans Kali, ouvre une fenêtre de terminal et installe [*feroxbuster*](https://github.com/epi052/feroxbuster) avec la commande suivante: `sudo apt update && sudo apt install -y feroxbuster`
 
 ![Feroxbuster](/assets_/feroxbuster.png)
 
