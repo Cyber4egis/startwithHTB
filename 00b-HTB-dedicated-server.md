@@ -49,21 +49,9 @@ This should generate the following output.
  
  First, confirm that you've been given an IP address.
  
-  If we type `ifconfig` in another terminal window, we will see a *tun* adapter if we successfully connected to the VPN.
+  If we type `ifconfig` in another terminal window, we will see a *tun* adapter if we successfully connected to the VPN. 
  
- ```
- root@kali:~# ifconfig      
- ....
- tun0: flags=4305<UP,POINTOPOINT,RUNNING,NOARP,MULTICAST>  mtu 1500
-        inet 10.10.14.2  netmask 255.255.254.0  destination 10.10.14.2
-        inet6 dead:beef:2::1000  prefixlen 64  scopeid 0x0<global>
-        inet6 fe80::ce00:662a:f97:2c8f  prefixlen 64  scopeid 0x20<link>
-        unspec 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  txqueuelen 100  (UNSPEC)
-        RX packets 0  bytes 0 (0.0 B)
-        RX errors 0  dropped 0  overruns 0  frame 0
-        TX packets 1  bytes 48 (48.0 B)
-        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
- ```
+ ![OpenVPN](/assets_/ifconfig.PNG)
  
  On the menu on the left, click on *Dedicated Labs* > select *US Dedicated 12*. There you'll see the list of available boxes on the dedicated server and the associated IP addresses.
  
