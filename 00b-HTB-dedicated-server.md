@@ -43,6 +43,7 @@ This should generate the following output.
 
  ![OpenVPN](/assets_/OpenVPN_academy.PNG)
  
+ The last line `Initialization Sequence Completed` tells us that we successfully connected to the VPN.
  
  ## Step 4 - Test the Connection
  
@@ -61,6 +62,8 @@ This should generate the following output.
         TX packets 1  bytes 48 (48.0 B)
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
  ```
+ 
+ If we type `ifconfig` in another terminal window, we will see a *tun* adapter if we successfully connected to the VPN.
  
  On the menu on the left, click on *Dedicated Labs* > select *US Dedicated 12*. There you'll see the list of available boxes on the dedicated server and the associated IP addresses.
  
