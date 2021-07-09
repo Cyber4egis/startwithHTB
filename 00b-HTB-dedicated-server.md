@@ -43,7 +43,7 @@ This should generate the following output.
 
  ![OpenVPN](/assets_/OpenVPN_academy.PNG)
  
- The last line `Initialization Sequence Completed` tells us that we successfully connected to the VPN.
+ The last line `Initialization Sequence Completed` tells us that we successfully connected to the VPN. 🎊
  
  ## Step 4 - Test the Connection
  
