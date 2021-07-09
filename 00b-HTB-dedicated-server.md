@@ -49,6 +49,8 @@ This should generate the following output.
  
  First, confirm that you've been given an IP address.
  
+  If we type `ifconfig` in another terminal window, we will see a *tun* adapter if we successfully connected to the VPN.
+ 
  ```
  root@kali:~# ifconfig      
  ....
@@ -62,8 +64,6 @@ This should generate the following output.
         TX packets 1  bytes 48 (48.0 B)
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
  ```
- 
- If we type `ifconfig` in another terminal window, we will see a *tun* adapter if we successfully connected to the VPN.
  
  On the menu on the left, click on *Dedicated Labs* > select *US Dedicated 12*. There you'll see the list of available boxes on the dedicated server and the associated IP addresses.
  
