@@ -24,11 +24,11 @@ When the switch is completed, click on the *Refresh* button.
 
 Once refreshed, you should see the name of the server you connected to.
 
- ![image5](/assets_/5.png)
+ ![image5](https://i.postimg.cc/5fd23TyJ/5.png)
 
  Then click on the *Connection Pack* button.
 
- ![image6](/assets_/6.png)
+ ![image6](https://i.postimg.cc/D76mw5fK/6.png)
 
 
 ## Step 3 - Connect to the Dedicated Server
