@@ -87,3 +87,5 @@
 | `base64 shell -w 0` | Convert a file to `base64` |
 | `echo f0VMR...SNIO...InmDwU \| base64 -d > shell` | Convert a file from `base64` back to its orig |
 | `md5sum shell` | Check the file's `md5sum` to ensure it converted correctly |
+
+_This cheatsheet is from the [Getting Started with Hack The Box module on HTB Academy](https://academy.hackthebox.eu/course/preview/getting-started)_
