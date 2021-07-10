@@ -60,12 +60,12 @@ This should generate the following output.
   Ping one of the IPs to test the connection.
   
 ```
-root@kali:~# ping 10.10.10.85
-PING 10.10.10.85 (10.10.10.85) 56(84) bytes of data.
-64 bytes from 10.10.10.85: icmp_seq=1 ttl=63 time=45.5 ms
-64 bytes from 10.10.10.85: icmp_seq=2 ttl=63 time=37.6 ms
-64 bytes from 10.10.10.85: icmp_seq=3 ttl=63 time=34.2 ms
-64 bytes from 10.10.10.85: icmp_seq=4 ttl=63 time=51.0 ms
+root@kali:~# ping 10.10.10.75
+PING 10.10.10.75 (10.10.10.75) 56(84) bytes of data.
+64 bytes from 10.10.10.75: icmp_seq=1 ttl=63 time=45.5 ms
+64 bytes from 10.10.10.75: icmp_seq=2 ttl=63 time=37.6 ms
+64 bytes from 10.10.10.75: icmp_seq=3 ttl=63 time=34.2 ms
+64 bytes from 10.10.10.75: icmp_seq=4 ttl=63 time=51.0 ms
 ```
 
 This tutorial was written by [Rana Khalil](https://github.com/rkhal101) and adapted for this workshop.
