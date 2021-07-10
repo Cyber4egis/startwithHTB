@@ -1,4 +1,4 @@
 # BURP SUITES
 
-![Slide17](/assets_/slides17.jpg)
+![Slide17](https://i.postimg.cc/CwSxkLGb/slides16.jpg)
 
