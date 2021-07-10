@@ -13,6 +13,6 @@
 
 ### ③ [Connect to **US Dedicated Server 12**](https://github.com/Cyber4egis/startwithHTB/blob/main/00a-RDP-setup-cloud.md) for this workshop! ✨
 
-## If you can ping Nibbles, you're ready to go! 🚀
+## If you can ping Nibbles (10.10.10.75), you're ready to go! 🚀
 
 ## [NEXT SLIDE  - HACKER METHODOLOGY 👉🏽](04-slide.md)
