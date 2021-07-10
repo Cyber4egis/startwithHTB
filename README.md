@@ -39,7 +39,7 @@ Here are the quick instructions to get your Remote Desktop Client ready: https:/
 
 Note that you'll have a much smoother experience (and learn more) by setting up your own Kali virtual machine. If you have the time, we recommend that you set one up!
 
-## [SLIDES 👉🏽](\slides\01-slide.md)
+## [SLIDES 👉🏽](/slides/01-slide.md)
 
 # Tes Premiers Pas avec Hack The Box
 Cet atelier pratique a pour but de vous présenter les concepts clés des test d’intrusion et vous aider à faire vos premiers pas avec Hack The Box (HTB) en vous présentant la procédure pas-à-pas de votre première boîte (HTB). 
