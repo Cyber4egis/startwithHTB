@@ -82,4 +82,4 @@ Voici les instructions rapides pour préparer ton client Remote Desktop: https:/
 
 Prends note que tu auras une bien meilleure expérience avec ta propre machine virtuelle. Si tu as le temps de suivre les instructions, nous te recommendons de préparer ta propre MV!
 
-## [PRÉSENTATION 👉🏽](\slides\01-slide.md)
+## [PRÉSENTATION 👉🏽](/slides/01-slide.md)
