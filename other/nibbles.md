@@ -1,5 +1,7 @@
 # NIBBLES
 
+[HackTheBox Nibbles Writeup](https://ethicalhacking.sh/posts/hack-the-box-nibbles/) on Cristina's blog.
+
 Nibbles is an easy Linux box that suffers from a known vulnerability that allows you to exploit file upload that leads to a Remote Code Execution (RCE) and gives you the ability to escalate your privileges with a script that can be run as root with no password.
 
 ## Recon
