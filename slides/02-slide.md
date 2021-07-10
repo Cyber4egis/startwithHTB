@@ -1,6 +1,6 @@
 # CRISTINA SOLANA
 
-![Slide2](/assets_/slides2.jpg)
+![Slide2](https://i.postimg.cc/fZyXS5zM/slides2.jpg)
 
 🔗[Cristina on Twitter](https://twitter.com/nightshiftc)
 
