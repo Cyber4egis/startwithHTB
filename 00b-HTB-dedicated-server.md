@@ -20,7 +20,7 @@ Under the *Tickets* section, click on the *Switch* button on the Dedicated ticke
  
 When the switch is completed, click on the *Refresh* button.
 
- ![image4](/assets_//4.png)
+ ![image4](/assets_/4.png)
 
 Once refreshed, you should see the name of the server you connected to.
 
