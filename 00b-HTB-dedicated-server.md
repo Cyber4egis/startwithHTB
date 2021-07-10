@@ -55,7 +55,7 @@ This should generate the following output.
  
  On the menu on the left, click on *Dedicated Labs* > select *US Dedicated 12*. There you'll see the list of available boxes on the dedicated server and the associated IP addresses.
  
-  ![image9](/assets_/9.png)
+  ![image9](https://i.postimg.cc/vYtG0Z1w/9.png)
   
   Ping one of the IPs to test the connection.
   
