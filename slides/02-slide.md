@@ -1,4 +1,4 @@
-# Cristina Solana
+# CRISTINA SOLANA
 
 ![Slide2](/assets_/slides2.jpg)
 
