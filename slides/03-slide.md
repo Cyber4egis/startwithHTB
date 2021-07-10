@@ -1,5 +1,5 @@
 # CONNECTING TO HACKTHEBOX
-![Slide1](/assets_/slides3.jpg)
+![Slide1](https://i.postimg.cc/NBrHpM2V/slides3.jpg)
 
 ## You have your own Kali Linux VM ✔️ 
 
